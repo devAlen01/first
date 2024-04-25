@@ -1,0 +1,36 @@
+#header {
+  margin: 30px 0;
+}
+
+.add-todo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.input-add {
+  width: 600px;
+  padding: 22px 0;
+  border-radius: 10px;
+  gap: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* .home {
+  height: 70vh;
+  background-image: url("https://www.whitelabeliq.com/wp-content/uploads/2024/02/How-to-Enhance-UIUX-with-Motion-Graphic.jpg");
+  background-repeat: no-repeat, repeat;
+} */
+.student {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.std-text {
+  padding: 6px 0;
+  text-align: center;
+}
